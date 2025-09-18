@@ -43,6 +43,7 @@ own_apps = [
     'todo',
 ]
 THIRD_PARTY_APPS = [
+
 ]
 
 INSTALLED_APPS = DJANGO_APPS + own_apps + THIRD_PARTY_APPS
