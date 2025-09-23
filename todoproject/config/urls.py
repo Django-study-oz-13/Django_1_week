@@ -17,7 +17,18 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+from todo import views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+<<<<<<< HEAD:todoproject/config/urls.py
     path('todo/', include('todo.urls')),
+=======
+
+    path('<int:pk>/', views.todo_detail, name='todo_detail'),
+
+    path('post/', views.todo_post, name='todo_post'),
+
+    path('<int:pk>/edit/', views.todo_edit, name='todo_edit'),
+>>>>>>> 01f535b (내 변경사항 저장):config/urls.py
 ]
