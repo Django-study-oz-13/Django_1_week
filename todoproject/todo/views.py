@@ -1,11 +1,11 @@
 from django.shortcuts import render
-from .models import Todo
+from models import Todo
 from django.contrib.auth.decorators import login_required
 from django.shortcuts import render, redirect, get_object_or_404
 from django.urls.base import reverse
 
 from form import TodoForm
-from todo.models import Todo
+
 
 
 # Create your views here.
