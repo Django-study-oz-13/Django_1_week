@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.13 (study_project)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 virtualenv at ~/Desktop/study_project/.study" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.11 (Django_1-_week)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Django_1-_week)" project-jdk-type="Python SDK" />
+>>>>>>> 49a686e (💡 Todo 모델 생성)
 </project>

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/study_project.iml" filepath="$PROJECT_DIR$/.idea/study_project.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Django_1-_week.iml" filepath="$PROJECT_DIR$/.idea/Django_1-_week.iml" />
+>>>>>>> 49a686e (💡 Todo 모델 생성)
     </modules>
   </component>
 </project>
